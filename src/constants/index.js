@@ -223,18 +223,23 @@ export const footerText = [
         link: "https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq",
     },
     {
+        title: "vite",
+        desc: "비트로 연습한 포트폴리오 사이트입니다.",
+        link: "https://github.com/joon6390/PortFolio-vite",
+    },
+    {
         title: "react",
-        desc: "리액트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/joon6390/port-react",
+        desc: "리액트로 연습한 포트폴리오 사이트입니다.",
+        link: "https://github.com/joon6390/PortFolio-React",
     },
     {
         title: "vue",
-        desc: "뷰로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/joon6390/port-vue",
+        desc: "뷰로 연습한 포트폴리오 사이트입니다.",
+        link: "https://github.com/joon6390/PortFolio-Vue",
     },
     {
         title: "next",
-        desc: "넥스트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/joon6390/port-next",
+        desc: "넥스트로 연습한 포트폴리오 사이트입니다.",
+        link: "https://github.com/joon6390/PortFolio-Next",
     },
 ];
